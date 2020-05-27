@@ -1,0 +1,12 @@
+<NS>:Noun as Subject
+<NO>:Noun as Object
+<NIns>:Noun with Instrumental{By, by with, by means of}
+<NDat>:Noun with Dative{To,For}
+<NAbl>:Noun with Ablative{From,Out of,Than}
+<NGen>:Noun with Genitive{Of,belongs to}
+<NLoc>:Noun with Locative{In,On,At,Among}
+<V>:Verb
+<Numeral>:Numeric Numbers
+<QW>:Question Words
+<SPW>:Special Words
+<PN with the types>:Prononuns with the same types as Noun
